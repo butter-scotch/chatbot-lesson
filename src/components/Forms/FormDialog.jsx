@@ -62,7 +62,7 @@ const FormDialog = (props) => {
               "内容：" + description 
       }
   
-      const url = "https://hooks.slack.com/services/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"
+      const url = "https://hooks.slack.com/..."
   
       fetch(url, {
         method: "POST",
